@@ -1,6 +1,6 @@
 ## Demo elastic-job with spring boot
 Elastic-Job-Lite Architecture
-![Elastic-Job-Lite Architecture](http://ovfotjrsi.bkt.clouddn.com/docs/img/architecture/elastic_job_lite.png)
+![Elastic-Job-Lite Architecture](https://kekekeke.sh1a.qingstor.com/elastic_job_lite.png)
 
 ### use zookeeper image
 ```
